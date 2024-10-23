@@ -26,14 +26,6 @@ This project focuses on basic mathematical formulas for calculating the area and
 
     _d078c8d9ee6155f3cb0e577d28d337b791de28e2_ - <info@smartiqa.ru>
 
-- > Add rectangle.py
-
-    _65be5c6b2d2796b28c130de97445f1bc4b50111f_ - <orlovavasya39@gmail.com>
-
-- > Add triangle.py and fix rectangle.py
-
-    _8d145651dc85a310a344792cfe47a874e417914b_ - <orlovavasya39@gmail.com>
-
-- > Documentation added
-
-    _99acc16dbcaffbfbfcec3502d4741582f4fca8f9_ - <orlovavasya39@gmail.com>
+- > Add documentation
+    
+    _4b36597faed24fa785412d373089cb708c0c1823_ - <orlovavasya39@gmail.com>

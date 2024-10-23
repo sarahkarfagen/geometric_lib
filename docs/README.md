@@ -27,5 +27,9 @@ This project focuses on basic mathematical formulas for calculating the area and
     _d078c8d9ee6155f3cb0e577d28d337b791de28e2_ - <info@smartiqa.ru>
 
 - > Add documentation
-    
+
     _4b36597faed24fa785412d373089cb708c0c1823_ - <orlovavasya39@gmail.com>
+
+- > History finished
+
+    _d078c8d9ee6155f3cb0e577d28d337b791de28e2_ - <orlovavasya39@gmail.com>

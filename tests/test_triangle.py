@@ -1,4 +1,4 @@
-#python -m unittest test_triangle.py
+# python -m unittest .\tests\test_triangle.py
 import unittest
 from triangle import area, perimeter
 

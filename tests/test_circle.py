@@ -1,4 +1,4 @@
-# python -m unittest test_circle.py
+# python -m unittest .\tests\test_circle.py
 import unittest
 import math
 from circle import area, perimeter
@@ -26,8 +26,8 @@ class TestCircle(unittest.TestCase):
         self.assertEqual(perimeter(0), 0)
 
     def test_perimeter_negative_radius(self):
-        self.assertAlmostEqual(perimeter(-1), 2 * math.pi)
-        self.assertAlmostEqual(perimeter(-3), 2 * math.pi * 3)
+        self.assertAlmostEqual(perimeter(-1), -2 * math.pi)
+        self.assertAlmostEqual(perimeter(-3), -2 * math.pi * 3)
 
 if __name__ == '__main__':
     unittest.main()

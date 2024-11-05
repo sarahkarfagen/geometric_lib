@@ -87,3 +87,7 @@ This project focuses on basic mathematical formulas for calculating the area and
 - > History finished
 
     _d078c8d9ee6155f3cb0e577d28d337b791de28e2_ - <orlovavasya39@gmail.com>
+
+- > Add tests
+
+    _1575f6131855e7dbbb90f36dc761543a4b9e1b40_ - <orlovavasya39@gmail.com>

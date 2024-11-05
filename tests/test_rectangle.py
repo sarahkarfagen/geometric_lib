@@ -1,4 +1,4 @@
-#python -m unittest test_rectangle.py
+# python -m unittest .\tests\test_rectangle.py
 import unittest
 from rectangle import area, perimeter
 

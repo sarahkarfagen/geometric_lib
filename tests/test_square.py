@@ -1,4 +1,4 @@
-#python -m unittest test_square.py
+# python -m unittest .\tests\test_square.py
 import unittest
 from square import area, perimeter
 

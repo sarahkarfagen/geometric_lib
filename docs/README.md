@@ -16,6 +16,60 @@ This project focuses on basic mathematical formulas for calculating the area and
 - Square: P = 4a
 - Triangle: P = a + b + c
 
+## Example
+
+### Area
+- Circle: 
+ >
+    .. code-block::python
+
+    res = area(1)
+    print(res) # 3.141592653589793
+- Rectangle: 
+>  
+    .. code-block:: python
+
+    res = area(10, 5)
+    print(res)        # 50
+- Square:
+> 
+    .. code-block:: python
+
+    res = area(10)
+    print(res)        # 100
+- Triangle: 
+> 
+    .. code-block:: python
+
+    res = area(10, 5)
+    print(res)        # 25
+
+### Perimeter
+- Circle: 
+> 
+    .. code-block:: python
+
+    res = perimeter(1)
+    print(res)        # 6.283185307179586
+- Rectangle: 
+>
+     .. code-block:: python
+
+    res = perimeter(10, 5)
+    print(res)        # 30
+- Square: 
+>
+     .. code-block:: python
+
+    res = perimeter(10)
+    print(res)        # 40
+- Triangle: 
+>
+    .. code-block:: python
+
+    res = perimeter(10, 8, 6)
+    print(res)        # 24
+
 ## Project History
 
 - > L-03: Circle and square added 

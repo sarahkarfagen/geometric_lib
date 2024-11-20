@@ -25,7 +25,7 @@ jobs:
           python -m unittest ./tests/test_triangle.py
 
 
-  build:
+  ubuntu-unittest:
 
     runs-on: ubuntu-latest 
 
